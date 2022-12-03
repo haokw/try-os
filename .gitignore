@@ -1,0 +1,10 @@
+# work file
+node_modules
+package-lock.json
+package.json
+.DS_Store
+
+eniac-simulator
+ostep-code
+riscv-gnu-toolchain
+xv6-riscv
